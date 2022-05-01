@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yash Anchaliya
-- 👀 I’m interested in Product management and Javascript
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on awsome projects on web dev
-- 📫 Reach me out at yashanchaliya2000@gmail.com
+- 👀 Talk with me about Product and Machine-Learning
+- 🌱 I’m currently Doing Deep Learning Research in energy and Pancreatic Cancer
+- 💞️ I’m looking to collaborate on Health tech projects
+- 📫 If you are doing something in Health Care.Mail me at yashanchaliya2000@gmail.com
 
 <!---
 Anchaliya75/Anchaliya75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
